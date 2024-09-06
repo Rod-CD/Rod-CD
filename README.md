@@ -1,4 +1,6 @@
-Olá, me chamo Rodrigo e sou estudante de engenharia da computação.
+Olá, sou Rodrigo, estudante de Engenharia da Computação com experiência em desenvolvimento full stack, análise de dados e eletrônica.  
+Atuo como capitão da equipe RedBone Robotics, onde gerencio o desenvolvimento de robôs para competições e exposições, coordenando projetos complexos e desafiadores.  
+Estou constantemente em busca de novos desafios que me permitam aplicar e aprimorar minhas habilidades em desenvolvimento de software e tecnologia.
 
 ## 💻Tecnologias :
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
